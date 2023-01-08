@@ -19,7 +19,7 @@ h1 {
   color: white;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 400px) {
   .main-header-text {
     font-size: 28px;
   }
